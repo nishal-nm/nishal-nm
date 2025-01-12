@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Nishal NM!
 
 ### 🚀 Skills and Technologies
-- **Languages:** Python, JavaScript, SQL, HTML&CSS
-- **Frameworks & Libraries:** React.js, Flask, Bootstrap, Django, jQuery
+- **Languages:** Python, JavaScript, SQL, HTML&CSS, php
+- **Frameworks:** React.js, Node.js, Express, Flask, Django
+- **Libraries:**  Bootstrap, jQuery, pandas, NumPy, Matplotlib
 - **Databases:** MySQL, SQLite  
-- **Tools:** Git, VS Code, Jupyter Notebook, GitHub  
+- **Tools:** Git, VS Code, Jupyter Notebook, phpMyAdmin  
 - **Other Skills:** Machine Learning, Data Analysis, UI/UX Design  
 
 ### 📂 Featured Projects
