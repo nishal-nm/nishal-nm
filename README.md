@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Nishal NM!
 
-<!--
-**nishal-nm/nishal-nm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills and Technologies
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks & Libraries:** React.js, Flask  
+- **Databases:** MySQL, SQLite  
+- **Tools:** Git, VS Code, Jupyter Notebook  
+- **Other Skills:** Machine Learning, Data Analysis, UI/UX Design  
 
-Here are some ideas to get you started:
+### 📂 Featured Projects
+Here are some of my top projects:
+- **[RideLync](https://github.com/nishalnm/ridelync)**  
+  A platform for ride-sharing using real-time vehicle route analysis.  
+  _Skills:_ YOLOv5, Python, MySQL, EasyOCR, Flask  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Quiz App](https://github.com/nishalnm/quiz-app)**  
+  Interactive quiz platform built with React.js for instant feedback and score tracking.  
+  _Skills:_ React.js, CSS, Responsive Design  
+
+### 🌐 Find Me Online
+- [Portfolio Website](https://your-portfolio-link.com)
+- [LinkedIn](https://linkedin.com/in/nishal-nm)
