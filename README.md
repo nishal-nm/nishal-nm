@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Nishal NM!
 
 ### 🚀 Skills and Technologies
-- **Languages:** Python, JavaScript, SQL, HTML, CSS, PHP
+- **Languages:** Python, JavaScript, HTML, CSS, SQL, PHP
 - **Frameworks:** React.js, Node.js, Express, Flask, Django
-- **Libraries:** Bootstrap, jQuery, pandas, NumPy, Matplotlib, react-confetti
+- **Libraries:** Bootstrap, Material UI, jQuery, pandas, NumPy, Matplotlib, react-confetti
 - **Databases:** MySQL, SQLite  
 - **Tools:** Git, VS Code, Jupyter Notebook, phpMyAdmin  
 - **Other Skills:** Machine Learning, Data Analysis, UI/UX Design  
@@ -15,11 +15,11 @@ I’m passionate about building **user-friendly, responsive websites** that not 
 Here are some of my top projects:
 - **[Memory Game](https://nishal-nm.github.io/memory-game/)**  
   A fun and interactive card-matching game built with React.js.  
-  _Skills:_ React.js, State Management, CSS, Responsive Design, React-Confetti (for winning animations)  
+  _Skills:_ React.js, State Management, CSS, Responsive Design, React-Confetti (for winning animations)
 
 - **[Quiz Game](https://nishal-nm.github.io/quiz-game/)**  
   Interactive quiz platform built with React.js for instant feedback and score tracking.  
-  _Skills:_ React.js, CSS, State Management, Responsive Design, React-Confetti (for winning animations)  
+  _Skills:_ React.js, CSS, Responsive Design  
 
 ### 🌐 Find Me Online
 - [Portfolio Website](https://nishal-nm.github.io/nishal-portfolio/)
