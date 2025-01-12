@@ -19,7 +19,7 @@ Here are some of my top projects:
 
 - **[Quiz Game](https://nishal-nm.github.io/quiz-game/)**  
   Interactive quiz platform built with React.js for instant feedback and score tracking.  
-  _Skills:_ React.js, CSS, Responsive Design  
+  _Skills:_ React.js, CSS, Responsive Design, State Management, React-Confetti
 
 ### 🌐 Find Me Online
 - [Portfolio Website](https://nishal-nm.github.io/nishal-portfolio/)
