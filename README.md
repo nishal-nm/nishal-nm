@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Nishal NM!
 
 ### 🚀 Skills and Technologies
-- **Languages:** Python, JavaScript, SQL  
-- **Frameworks & Libraries:** React.js, Flask  
+- **Languages:** Python, JavaScript, SQL, HTML&CSS
+- **Frameworks & Libraries:** React.js, Flask, Bootstrap, Django, jQuery
 - **Databases:** MySQL, SQLite  
-- **Tools:** Git, VS Code, Jupyter Notebook  
+- **Tools:** Git, VS Code, Jupyter Notebook, GitHub  
 - **Other Skills:** Machine Learning, Data Analysis, UI/UX Design  
 
 ### 📂 Featured Projects
 Here are some of my top projects:
-- **[RideLync](https://github.com/nishalnm/ridelync)**  
-  A platform for ride-sharing using real-time vehicle route analysis.  
-  _Skills:_ YOLOv5, Python, MySQL, EasyOCR, Flask  
+- **[Memory Game](https://nishal-nm.github.io/memory-game/)**  
+  A fun and interactive card-matching game built with React.js.  
+  _Skills:_ React.js, State Management, CSS, Responsive Design
 
-- **[Quiz App](https://github.com/nishalnm/quiz-app)**  
+- **[Quiz Game](https://nishal-nm.github.io/quiz-game/)**  
   Interactive quiz platform built with React.js for instant feedback and score tracking.  
   _Skills:_ React.js, CSS, Responsive Design  
 
 ### 🌐 Find Me Online
-- [Portfolio Website](https://your-portfolio-link.com)
-- [LinkedIn](https://linkedin.com/in/nishal-nm)
+- [Portfolio Website](https://nishal-nm.github.io/nishal-portfolio/)
+- [LinkedIn](http://www.linkedin.com/in/nishal-nm)
