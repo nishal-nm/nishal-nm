@@ -22,7 +22,7 @@ Here are some of my top projects:
   _Skills:_ React.js, CSS, Responsive Design, State Management, React-Confetti
 
 - **[Fuel Calculator - A Fuel Cost Estimator](https://nishal-nm.github.io/fuel-calculator/)**  
-  A fuel cost calculator app that estimates fuel expenses based on distance, vehicle mileage, and fuel price. Simple, efficient, and easy-to-use, it helps users calculate the total fuel cost for their trips.  
+  A simple fuel cost calculator that estimates expenses based on distance, mileage, and fuel price.
   _Skills:_ JavaScript, User Input Handling, Responsive Design
 
 ### 🌐 Find Me Online
