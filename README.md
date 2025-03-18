@@ -25,6 +25,10 @@ Here are some of my top projects:
   A simple fuel cost calculator that estimates expenses based on distance, mileage, and fuel price.  
   _Skills:_ JavaScript, User Input Handling, Responsive Design
 
+- **[RideLync - A Ridesharing Website](https://rideshare-wheat.vercel.app/)**  
+  A simple Ridesharing Website developed using Django and React frameworks.  
+  _Skills:_ React, Django, MySQL, Responsive Design
+
 ### 🌐 Find Me Online
 - [Portfolio Website](https://nishal-nm.github.io/nishal-portfolio/)
 - [LinkedIn](http://www.linkedin.com/in/nishal-nm)
