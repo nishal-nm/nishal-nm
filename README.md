@@ -27,7 +27,7 @@ Here are some of my top projects:
 
 - **[RideLync - A Ridesharing Website](https://rideshare-wheat.vercel.app/)**  
   A simple Ridesharing Website developed using Django and React frameworks.  
-  _Skills:_ React, Django, MySQL, Responsive Design
+  _Skills:_ React.js, Django, MySQL, Responsive Design
 
 ### 🌐 Find Me Online
 - [Portfolio Website](https://nishal-nm.github.io/nishal-portfolio/)
