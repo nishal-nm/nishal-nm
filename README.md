@@ -30,5 +30,5 @@ Here are some of my top projects:
   _Skills:_ React.js, Django, MySQL, Responsive Design
 
 ### 🌐 Find Me Online
-- [Portfolio Website](https://nishal-nm.github.io/nishal-portfolio/)
+- [Portfolio Website](https://nishal-nm.github.io)
 - [LinkedIn](http://www.linkedin.com/in/nishal-nm)
