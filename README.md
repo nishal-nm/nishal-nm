@@ -3,7 +3,7 @@
 ### 🚀 Skills and Technologies  
 - **Languages:** Python, JavaScript, HTML, CSS, SQL, PHP  
 - **Frameworks:** React.js, Node.js, Express, Flask, Django, Tailwind CSS, Bootstrap, Material UI  
-- **Libraries:** jQuery, pandas, NumPy, Matplotlib, React-Confetti  
+- **Libraries:** jQuery, pandas, NumPy, Matplotlib, axios  
 - **Databases:** MySQL, SQLite  
 - **Tools:** Git, VS Code, Jupyter Notebook, phpMyAdmin  
 - **Additional Skills:** Machine Learning, Data Analysis, UI/UX Design  
