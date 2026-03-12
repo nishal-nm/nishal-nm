@@ -1,34 +1,46 @@
-# 👋 Hi, I'm Nishal NM!
+# Nishal NM
 
-### 🚀 Skills and Technologies  
-- **Languages:** Python, JavaScript, HTML, CSS, SQL, PHP  
-- **Frameworks:** React.js, Node.js, Express, Flask, Django, Tailwind CSS, Bootstrap, Material UI  
-- **Libraries:** jQuery, pandas, NumPy, Matplotlib, axios  
-- **Databases:** MySQL, SQLite  
-- **Tools:** Git, VS Code, Jupyter Notebook, phpMyAdmin  
-- **Additional Skills:** Machine Learning, Data Analysis, UI/UX Design  
+Backend Developer based in Kerala, India. I build production-grade systems with Python and Django — APIs, real-time infrastructure, background jobs, and full server deployments.
 
-### 🌱 My Journey & Goals
-I’m passionate about building **user-friendly, responsive websites** that not only look great but also provide seamless user experiences. With a strong focus on **front-end design**, I strive to create appealing and intuitive interfaces while ensuring the **back-end** is solid and efficient. My goal is to become a **full-stack developer**, mastering both front-end and back-end technologies to deliver complete and polished web applications.
+Currently working as **Backend Developer & Team Lead** at Coremicron Enterprise LLP.
 
-### 📂 Featured Projects
-Here are some of my top projects:
-- **[Memory Game](https://nishal-nm.github.io/memory-game/)**  
-  A fun and interactive card-matching game built with React.js.  
-  _Skills:_ React.js, State Management, CSS, Responsive Design, React-Confetti (for winning animations)
+---
 
-- **[Quiz Game](https://nishal-nm.github.io/quiz-game/)**  
-  Interactive quiz platform built with React.js for instant feedback and score tracking.  
-  _Skills:_ React.js, CSS, Responsive Design, State Management, React-Confetti
+### Stack
 
-- **[Fuel Calculator - A Fuel Cost Estimator](https://nishal-nm.github.io/fuel-calculator/)**  
-  A simple fuel cost calculator that estimates expenses based on distance, mileage, and fuel price.  
-  _Skills:_ JavaScript, User Input Handling, Responsive Design
+```python
+backend    = ["Python", "Django", "Django REST Framework", "Django Channels"]
+async      = ["Celery", "Redis", "WebSockets"]
+databases  = ["MySQL", "Redis", "MinIO"]
+infra      = ["Docker", "Nginx", "Linux", "Dedicated Server"]
+payments   = ["Razorpay"]
+tools      = ["Git", "Postman", "VS Code"]
+```
 
-- **[RideLync - A Ridesharing Website](https://rideshare-wheat.vercel.app/)**  
-  A simple Ridesharing Website developed using Django and React frameworks.  
-  _Skills:_ React.js, Django, MySQL, Responsive Design
+---
 
-### 🌐 Find Me Online
-- [Portfolio Website](https://nishal-nm.github.io)
-- [LinkedIn](http://www.linkedin.com/in/nishal-nm)
+### Work
+
+**Backend Developer & Team Lead** — Coremicron Enterprise LLP *(Jun 2025 – Present)*
+Built and led a production coaching institution platform — 30+ REST APIs, real-time WebSocket monitoring, Razorpay payment flows, Celery task pipelines, fully Dockerised and deployed on a dedicated server.
+
+**ML Intern** — ICFOSS, Thiruvananthapuram *(2023)*
+Python ML workflows, data preprocessing, feature engineering. Contributed to early RideLync research.
+
+---
+
+### Projects
+
+| Project | Stack | Links |
+|---|---|---|
+| Coaching Institution Platform | Django · Channels · Celery · Redis · Docker · Razorpay | Private · Production |
+| RideLync | Django · MySQL · YOLOv5 · EasyOCR · React | [Live](https://rideshare-wheat.vercel.app) · [GitHub](https://github.com/nishal-nm/ridelync-backend) |
+| Test Memory | React.js | [Live](https://nishal-nm.github.io/memory-game) · [GitHub](https://github.com/nishal-nm/memory-game) |
+| Quiz Game | React.js | [Live](https://nishal-nm.github.io/quiz-game) · [GitHub](https://github.com/nishal-nm/quiz-game) |
+| Fuel Calculator | JavaScript | [Live](https://nishal-nm.github.io/fuel-calculator) · [GitHub](https://github.com/nishal-nm/fuel-calculator) |
+
+---
+
+### Find Me
+
+[Portfolio](https://nishal-nm.github.io) · [LinkedIn](https://linkedin.com/in/nishal-nm) · [Email](mailto:nishalshalu17@gmail.com)
